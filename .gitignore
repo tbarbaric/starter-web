@@ -1,1 +1,2 @@
-.testIgnoreThisFile
+*.log
+log/
